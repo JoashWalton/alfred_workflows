@@ -61,6 +61,21 @@
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>openwith</key>
+				<string>/Applications/Visual Studio Code.app</string>
+				<key>sourcefile</key>
+				<string>~/.zshrc</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openfile</string>
+			<key>uid</key>
+			<string>754DD305-5947-4075-B6C2-3EE36D7D6BAF</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>argumenttype</key>
 				<integer>2</integer>
 				<key>keyword</key>
@@ -82,36 +97,6 @@
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>openwith</key>
-				<string>/Applications/Atom.app</string>
-				<key>sourcefile</key>
-				<string>~/.zshrc</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openfile</string>
-			<key>uid</key>
-			<string>754DD305-5947-4075-B6C2-3EE36D7D6BAF</string>
-			<key>version</key>
-			<integer>3</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>openwith</key>
-				<string>/Applications/Atom.app</string>
-				<key>sourcefile</key>
-				<string>~/.irbrc</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openfile</string>
-			<key>uid</key>
-			<string>1FD0A97F-CFF9-446C-A250-A238EB769E17</string>
-			<key>version</key>
-			<integer>3</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>argumenttype</key>
 				<integer>2</integer>
 				<key>keyword</key>
@@ -129,6 +114,21 @@
 			<string>B817B754-23F0-44A6-BA22-E4C6E6E2B396</string>
 			<key>version</key>
 			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>openwith</key>
+				<string>/Applications/Visual Studio Code.app</string>
+				<key>sourcefile</key>
+				<string>~/.irbrc</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openfile</string>
+			<key>uid</key>
+			<string>1FD0A97F-CFF9-446C-A250-A238EB769E17</string>
+			<key>version</key>
+			<integer>3</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -155,7 +155,7 @@
 			<key>config</key>
 			<dict>
 				<key>openwith</key>
-				<string>/Applications/Atom.app</string>
+				<string>/Applications/Visual Studio Code.app</string>
 				<key>sourcefile</key>
 				<string>~/.rubocop.yml</string>
 			</dict>
