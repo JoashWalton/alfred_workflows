@@ -1,2 +1,2 @@
 # alfred_workflows
-Workflows by Josh Walton for Alfred 4
+Workflows by Josh Walton for Alfred 5
